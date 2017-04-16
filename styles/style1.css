@@ -1,0 +1,26 @@
+.navbar-center
+{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    text-align: center;
+    font-size: 150%;
+}
+
+.login
+{
+    margin-top: 100px;
+    text-align: center;
+}
+
+#rectangle {
+	margin-top: 100px;
+    width: 3px ;
+	height: 300px;
+	background: #777777;
+    -moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+    opacity: .5;
+}
