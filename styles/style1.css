@@ -24,3 +24,37 @@
 	border-radius: 50px;
     opacity: .5;
 }
+
+.button-linker
+{
+    color: white;
+}
+
+.reg_name
+{
+    max-width: 200px;
+}
+
+.button-margin
+{
+    margin-top:13px;
+    
+}
+
+.pesho
+{
+    margin-top: 16px;
+}
+
+.register
+{
+    margin-right: 80px;
+}
+.button-right
+{
+    margin-right:75px;
+}
+.loger
+{
+    margin-left: 20px;
+}
